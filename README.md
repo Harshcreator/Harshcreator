@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Singh</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshcreator" alt="harshcreator" /></a> </p>
-
 - 🔭 I’m currently working on [Shenanigram](https://github.com/Harshcreator/shenanigram)
 
 - 🌱 I’m currently learning **Data Science, AI/ML**
