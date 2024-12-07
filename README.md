@@ -1,17 +1,11 @@
 # 💫 About Me:
-Welcome to my GitHub profile!
 
-## About Me
 - 🔭 I’m currently working on Low Level Applications
 - 🌱 I’m currently learning Low level architectural design
 - 👯 I’m looking to collaborate on Web Dev & AI/ML
 - 🤔 I’m looking for help with networking
 - 💬 Ask me about Web Dev & AI/ML
 - 📫 How to reach me: harshsingh220603@gmail.com
-
-## My GitHub Stats
-![Harshcreator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshcreator&show_icons=true&theme=radical)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-singh22) 
