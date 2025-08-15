@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML.<br>🌱 I’m currently learning AI/ML.<br>👯 I’m looking to collaborate on Web Dev & AI/ML.<br>🤔 I’m looking for help with networking.<br>💬 Ask me about Web Dev & AI/ML.<br>📫 How to reach me: harshsingh220603@gmail.com
+🔭 I am an experienced software developer who builds reliable, practical solutions. Creates code that helps people work more efficiently. Known for quick problem-solving, adapting to new technologies, and delivering projects on schedule. Strong track record of turning complex requirements into straightforward, maintainable software.
 
 
 ## 🌐 Socials:
