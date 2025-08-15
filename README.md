@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I am an experienced software developer who builds reliable, practical solutions. Creates code that helps people work more efficiently. Known for quick problem-solving, adapting to new technologies, and delivering projects on schedule. Strong track record of turning complex requirements into straightforward, maintainable software.
-[harshsingh220603@gmail.com](harshsingh220603@gmail.com)
+Contact : [harshsingh220603@gmail.com](harshsingh220603@gmail.com)
 
 
 ## 🌐 Socials:
